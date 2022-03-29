@@ -17,6 +17,7 @@ public class EjemploGit {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        String DNI="12345678Q";
         String nombre="Alejandro";
         int edad=19;
         
