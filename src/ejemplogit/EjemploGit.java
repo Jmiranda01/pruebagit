@@ -17,6 +17,7 @@ public class EjemploGit {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        String nombre="Alejandro";
         int edad=19;
         
         System.out.println("Cosa de GIT");
