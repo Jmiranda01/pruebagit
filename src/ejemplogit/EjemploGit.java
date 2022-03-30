@@ -22,6 +22,7 @@ public class EjemploGit {
         int edad=19;
         
         System.out.println("Cosa de GIT");
+        System.out.println("Cosa a distancia");
     }
     
 }
